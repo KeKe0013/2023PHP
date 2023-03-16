@@ -1,0 +1,5 @@
+<h1>
+<CENTER>
+MxN乘法表
+</CENTER>
+</h1>

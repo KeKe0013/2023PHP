@@ -1,0 +1,5 @@
+<body>
+	<CENTER>
+		<img src="image/rabbit.jpeg" width="100" height="100">
+	</CENTER>
+</body>
