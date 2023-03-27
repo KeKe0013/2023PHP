@@ -1,4 +1,4 @@
-<?php ob_start(); ?>
+<?php ob_start(); ?> //啟用輸出緩存區
 <?php
 session_start();
 
@@ -24,4 +24,4 @@ if ($_SESSION["login"] == "No") {
 </body>
 
 </html>
-<?php ob_flush(); ?>
+<?php ob_flush(); ?> //送出輸出緩存區內容到瀏覽器
