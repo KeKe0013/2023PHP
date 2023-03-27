@@ -4,7 +4,7 @@ session_start();
 
 if ($_SESSION["login"] == "No") {
 } else {
-    header("Location:ex_0316_error.php");
+    header("Location:ex_0316_error.php"); //轉址
 }
 ?>
 
